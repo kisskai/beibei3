@@ -1054,7 +1054,7 @@
     {
       "name": "sao0",
       "type": 0,
-      "url": "./lib/tvlive.txt",
+      "url": "https://raw.githubusercontent.com/kisskai/beibei3/main/tvlive.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
