@@ -1,25 +1,24 @@
 {
   "spider": "./fty.jar;md5;64110baeb9974690f7b374a8b2586ac5",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+   "lives": [
+    {
+      "name": "tvlive",
+      "type": 0,
+      "playerType": 1,
+       "url": "./tvlive.txt"
+    }
+  ],
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "🌕公众号【神秘的哥哥们】",
+   {
+      "key": "drpy_js_豆瓣",
+      "name": "🐼┃豆瓣┃高❤️贝",
       "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃4K弹幕不断流",
-      "type": 3,
-      "api": "csp_WoGG",
+      "api": "https://gitee.com/high-buddha/gbeiwj/raw/master/js/ddrpy2.m.js",
       "searchable": 1,
-      "quickSearch": 1,
+      "quickSearch": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "https://gitee.com/high-buddha/gbeiwj/raw/master/js豆瓣推荐.js"
     },
     {
       "key": "YGP",
@@ -878,26 +877,6 @@
         "直 播",
         "更 新"
       ]
-    }
-  ],
-  "lives": [
-    {
-      "name": "sao0",
-      "type": 0,
-      "url": "./lib/tvlive.txt",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "ipv6",
-      "type": 0,
-      "url": "./lib/ipv6.m3u",
-      "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
