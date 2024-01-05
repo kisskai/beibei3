@@ -1,7 +1,14 @@
 {
   "spider": "./fty.jar;md5;64110baeb9974690f7b374a8b2586ac5",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-
+  "lives": [
+   {
+      "name": "tvlive",
+      "type": 0,
+      "playerType": 1,
+       "url": "./tvlive.txt"
+    }
+  ],
   "sites": [
    {
       "key": "drpy_js_豆瓣",
