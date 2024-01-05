@@ -20,6 +20,20 @@
       "changeable": 0,
       "ext": "https://raw.githubusercontent.com/kisskai/beibei3/main/豆瓣推荐.js"
     },
+     {
+      "key": "drpy_js_骚火电影",
+      "name": "骚火电影[js]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kisskai/beibei3/main/ddrpy2.m.js",
+      "ext": "./骚火电影.js"
+    },
+    {
+      "key": "drpy_js_量子资源",
+      "name": "量子资源[js]",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/kisskai/beibei3/main/ddrpy2.m.js",
+      "ext": "./量子资源.js"
+    },
     {
       "key": "Czsapp",
       "name": "📔厂长┃直连",
@@ -106,20 +120,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzj.pro/"
-    },
-     {
-      "key": "drpy_js_骚火电影",
-      "name": "骚火电影[js]",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/kisskai/beibei3/main/ddrpy2.m.js",
-      "ext": "./骚火电影.js"
-    },
-    {
-      "key": "drpy_js_量子资源",
-      "name": "量子资源[js]",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/kisskai/beibei3/main/ddrpy2.m.js",
-      "ext": "./量子资源.js"
     },
     {
       "key": "csp_Nmys",
