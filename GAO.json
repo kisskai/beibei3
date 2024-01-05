@@ -3,7 +3,7 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
    "lives": [
     {
-      "name": "tvlive",
+      "name": "电视",
       "type": 0,
       "playerType": 1,
        "url": "./tvlive.txt"
