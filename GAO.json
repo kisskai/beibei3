@@ -111,15 +111,15 @@
       "key": "drpy_js_骚火电影",
       "name": "骚火电影[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/骚火电影.js"
+      "api": "https://raw.githubusercontent.com/kisskai/beibei3/main/ddrpy2.m.js",
+      "ext": "./骚火电影.js"
     },
     {
       "key": "drpy_js_量子资源",
       "name": "量子资源[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/量子资源.js"
+      "api": "https://raw.githubusercontent.com/kisskai/beibei3/main/ddrpy2.m.js",
+      "ext": "./量子资源.js"
     },
     {
       "key": "csp_Nmys",
