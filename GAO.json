@@ -36,7 +36,7 @@
       "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -107,34 +107,19 @@
       "changeable": 1,
       "ext": "https://www.zxzj.pro/"
     },
-    {
-      "key": "csp_Bttoo",
-      "name": "🍄比特┃直连",
+     {
+      "key": "drpy_js_骚火电影",
+      "name": "骚火电影[js]",
       "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/骚火电影.js"
     },
     {
-      "key": "Lib",
-      "name": "🌟利播┃直连",
+      "key": "drpy_js_量子资源",
+      "name": "量子资源[js]",
       "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.libvio.pro/"
-    },
-    {
-      "key": "DiDuan",
-      "name": "⏮️低端┃直连",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/量子资源.js"
     },
     {
       "key": "csp_Nmys",
